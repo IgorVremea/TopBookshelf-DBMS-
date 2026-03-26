@@ -1,0 +1,28 @@
+{
+    "plugin": "Library Management System",
+    "version": "3.5.5",
+    "timestamp": 20260326112220,
+    "data": {
+        "branches": [
+            {
+                "name": "No Branch",
+                "status": "1"
+            }
+        ],
+        "users": [],
+        "bookcases": [],
+        "sections": [],
+        "categories": [],
+        "books": [],
+        "issue_days": [
+            {
+                "days": "30",
+                "status": "1"
+            }
+        ],
+        "book_borrow": [],
+        "book_return": [],
+        "book_late_fine": [],
+        "custom_labels": []
+    }
+}
